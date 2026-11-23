@@ -3,7 +3,7 @@ import Layout from './components/Layout';
 import About from './pages/About';
 import NotFound from './pages/NotFound';
 import Welcome from './pages/Welcome';
-import Login from './pages/login';
+import Login from './pages/Login';
 
 export default function App() {
   return (
